@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source ~/.config/user-dirs.dirs
+cp /opt/apps/com.xunlei.download/entries/applications/com.xunlei.download.desktop $XDG_DESKTOP_DIR/com.xunlei.download.desktop
+chmod 777 $XDG_DESKTOP_DIR/com.xunlei.download.desktop

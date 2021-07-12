@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=迅雷
+Comment=迅雷下载
+Exec=/opt/apps/com.xunlei.download/files/start.sh %U
+Icon=/opt/apps/com.xunlei.download/entries/icons/hicolor/256x256/apps/com.xunlei.download.png
+Terminal=false
+Categories=net
+Type=Application
+MimeType=application/x-bittorrent
+StartupWMClass=thunder

@@ -1,0 +1,9 @@
+Package: com.xunlei.download
+Version: 1.0.0.1
+Installed-Size: 153976
+Maintainer: xllinux <xllinux@xunlei.com>
+Section: net
+Architecture: amd64
+Priority: optional
+Description: xunlei download
+ xunlei download p2p
